@@ -1,0 +1,40 @@
+
+.image1{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin-top: 50px;
+    margin-left: 150px;
+    background: white;
+    
+}
+
+.about {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
+
+.roww {
+    display: flex;
+    
+    
+    
+}
+
+.lorem {
+    width: 600px;
+    text-align: justify;
+    margin-left: 60px;
+    color: white;
+}
+
+.col-6{
+    margin-top: 50px;
+}
+
+.five {
+    padding-bottom: 40px;
+    background: linear-gradient( #36454F, black)
+}
