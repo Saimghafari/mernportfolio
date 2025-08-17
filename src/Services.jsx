@@ -1,7 +1,7 @@
 import React from 'react'
 import tag from "./assets/tag.svg"
 import seo from "./assets/seo.svg"
-import webDevelopment from "./assets/web-Development-svgrepo-com.svg"
+import webDevelopment from "./assets/webdev.svg"
 import Content from "./assets/web.svg"
 
 const Services = () => {
