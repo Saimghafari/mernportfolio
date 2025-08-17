@@ -1,7 +1,7 @@
 import React from 'react'
 import tag from "./assets/tag.svg"
 import seo from "./assets/seo.svg"
-import web from "./assets/web-Development-svgrepo-com.svg"
+import webDevelopment from "./assets/web-Development-svgrepo-com.svg"
 import Content from "./assets/web.svg"
 
 const Services = () => {
@@ -24,7 +24,7 @@ const Services = () => {
 
 
           <div className="border border-gray-300 rounded-lg shadow-md p-6 bg-white hover:shadow-lg transition-shadow duration-300 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#FF4500] duration-300">
-            <img src={web} alt="Web Development" className="w-16 h-16 mb-4 " />
+            <img src={webDevelopment} alt="Web Development" className="w-16 h-16 mb-4 " />
             <h2 className="text-2xl font-bold  mb-4">Web Development</h2>
             <p className="text-justify text-gray-600">Develop high-quality, scalable web applications using the latest technologies and frameworks.</p>
           </div>
